@@ -1,0 +1,24 @@
+{
+  "strict": {
+    "text-font-family": "OpenSans-Regular"
+  },
+
+  "components": {
+    "Button": {
+      "meta": {},
+      "appearances": {
+        "ghost": {
+          "mapping": {},
+          "variantGroups": {
+            "status": {
+              "basic": {
+                "paddingHorizontal": -18,
+                "paddingVertical": -12
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
